@@ -1,0 +1,56 @@
+body {
+    background: #cccccc;
+}
+#foto {
+    width: 98%;
+    height: 600px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: rgb(17, 17, 17);
+    border-image: initial;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.título-principal {
+    padding-left: 20px;
+}
+
+.título-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color:rgb(113, 2, 9);
+}
+
+.itens {
+	font-style: italic
+}
+
+.benefícios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembenefícios {
+    width: 50%;
+}
